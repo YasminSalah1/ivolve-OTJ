@@ -18,7 +18,8 @@
 - Extend the Logical Volume by adding the 3 GB partition to the existing Volume Group.
 
   #### Result
-  ![iScreen Shoter - 20250623213642528](https://github.com/user-attachments/assets/0e3a3674-7658-49d0-9638-9e9e17bc55ed)
+  ![iScreen Shoter - 20250623214000558](https://github.com/user-attachments/assets/17f397fc-3c8d-4946-84d4-96b607305f62)
+
 
 
  ## Lab 3: SSH Configurations
