@@ -1,5 +1,5 @@
 # Day 2
-##Lab 4: Ansible Installation
+## Lab 4: Ansible Installation
 - Install and configure Ansible Automation Platform on control node.
 - Create inventory of a managed node.
 - Generate new key on control node.
