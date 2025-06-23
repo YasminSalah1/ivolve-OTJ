@@ -9,3 +9,11 @@
   #### Final output
   
   ![iScreen Shoter - 20250623233324537](https://github.com/user-attachments/assets/2b6a1329-6c9f-4a9c-8b84-b0f2a8a95db1)
+
+
+## Lab 5: Ansible Playbooks for Web Server Configuration
+- Write an Ansible playbook to automate the configuration of a web server.
+- Install Nginx.
+- customize the web page.
+- Verify the configuration on managed node.
+  
