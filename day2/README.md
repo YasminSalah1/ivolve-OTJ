@@ -22,3 +22,19 @@
   ![iScreen Shoter - 20250624122657408](https://github.com/user-attachments/assets/c58225cf-b4c0-40f1-877b-39ba623aa594)
 
   
+## Lab 6: Ansible Roles for Application Deployment
+- Create an Ansible role for installing Docker, Kubernetes CLI (kubectl), and Jenkins.
+- Write an Ansible playbook to run the created roles.
+- Verify the installation on the managed node.
+
+  #### Ansible Playbook Execution
+  
+  ![iScreen Shoter - 20250625002449077](https://github.com/user-attachments/assets/96eee9cd-5e55-4a16-821d-65ab76fb2a2a)
+
+
+
+  #### Verification of Docker, kubectl, and Jenkins Installation
+
+  ![iScreen Shoter - 20250625002815590](https://github.com/user-attachments/assets/05eba717-7135-4af9-ad2b-acec563edab2)
+
+
