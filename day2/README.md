@@ -16,4 +16,9 @@
 - Install Nginx.
 - customize the web page.
 - Verify the configuration on managed node.
+
+  #### Ansible Webserver
+
+  ![iScreen Shoter - 20250624122657408](https://github.com/user-attachments/assets/c58225cf-b4c0-40f1-877b-39ba623aa594)
+
   
