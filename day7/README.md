@@ -32,4 +32,25 @@
   
      ![iScreen Shoter - 20250705005832977](https://github.com/user-attachments/assets/2683d454-6cb8-498c-a6ef-488fcd1b1596)
 
+
+
+
+## Lab 17: Scan Docker Image with Trivy
+- Install Trivy from https://trivy.dev/latest/getting-started/installation/
+- Clone the Application Code https://github.com/Ibrahim-Adel15/Docker-1.git
+- Write Dockerfile.
+  - Use Maven base image
+  - Copy the application code into the container
+  - Build the app using mvn package
+  - Expose port 8080
+  - Run the jar file located in target/demo-0.0.1-SNAPSHOT.jar
+- Build Image.
+- Scan image and save the report in a JSON format.
+- Push image into your DockerHub.
+
+
+  #### Pushed Docker Image to DockerHub
   
+  ![iScreen Shoter - 20250705021530068](https://github.com/user-attachments/assets/300895bf-8261-4c10-89e0-417c5d9d8119)
+
+
